@@ -1,0 +1,37 @@
+-Jump while holding down to jump through passthrough blocks
+-Spawn marker at you future spawn location after death, when pressed a button you spawn there or after 5 seconds. You still have 2 seconds of invurability.
+-Mario3 collisions
+-Slime fix (no hover, top sprite line fix)
+-replace placeholders
+-Hold down to run (non powerup to taunt)
+
+To-Do
+-Menu
+-Powerups
+-LevelBlocks         -BreakBlock   -LooseBlock   R (loose)
+-Level editor                              R
+-Level Saving to TXT (compression)
+-Level loading from txt
+-On block splats
+-Audio Impl.
+-Partymode				   R	 	PartyCard such shit
+-Burn-up				   R
+-GUI
+
+-GUI Timer 				   R
+-Explosion				   R
+-Invinsibility			           R
+-Editor		(Save/load/new/etc.)	   R
+-Find taunt in folder			   R
+-Compresion name Remember		   R
+
+Future
+-Splat game mode                       
+-Achievement System                        R	*NUT?
+-Party expansion                           R
+-Draft system                              R 	*NUT?
+-Iceblock                                  R
+-Ghost System
+-Cleanse mode
+-Level loading code
+-Skins					   R
